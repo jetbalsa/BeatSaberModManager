@@ -1,0 +1,2 @@
+Beat Saver In-Game Browser,Andruzzzhka,0,https://github.com/andruzzzhka/BeatSaverDownloader/releases/download/1.0/BeatSaverDownloader.dll
+ScoreSaber - Custom ScoreBoards,Umbranoxio,1,https://github.com/Umbranoxio/ScoreSaber/releases/download/0.5/ScoreSaber.zip

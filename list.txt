@@ -1,3 +1,3 @@
 Song Loader (Required),xyonico,1,3.0,https://github.com/xyonico/BeatSaberSongInjector/releases/download/v3.0/SongLoaderPlugin.First.Time.Install.zip,SongLoaderPlugin.First.Time.Install.zip
-Beat Saver In-Game Browser,Andruzzzhka,0,1.0,https://github.com/andruzzzhka/BeatSaverDownloader/releases/download/1.0/BeatSaverDownloader.dll,BeatSaverDownloader.dll
+Beat Saver In-Game Browser,Andruzzzhka,0,1.1,https://github.com/andruzzzhka/BeatSaverDownloader/releases/download/1.1/BeatSaverDownloader.dll,BeatSaverDownloader.dll
 ScoreSaber - Custom ScoreBoards,Umbranoxio,1,0.5,https://github.com/Umbranoxio/ScoreSaber/releases/download/0.5/ScoreSaber.zip,ScoreSaber.zip
